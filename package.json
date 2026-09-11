@@ -1,0 +1,26 @@
+{
+  "name": "typep",
+  "version": "1.0.0",
+  "description": "A pure Typescript library management system with book, member, and loan tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nithiyapraba2-cloud/library-management-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nithiyapraba2-cloud/library-management-system/issues"
+  },
+  "homepage": "https://github.com/nithiyapraba2-cloud/library-management-system#readme",
+  "devDependencies": {
+    "@types/node": "^22.20.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^7.0.2"
+  }
+}
